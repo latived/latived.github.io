@@ -24,7 +24,11 @@ github_username: latived
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-minimal
+=======
+theme: jekyll-theme-tactile
+>>>>>>> 7da2e84a937121fd09a6fe55196881d24ed921f5
 plugins:
   - jekyll-feed
 
